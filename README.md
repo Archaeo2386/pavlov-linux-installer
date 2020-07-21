@@ -8,7 +8,7 @@ Shell file to install beta versions of
  |  __/ _` \ \ / / |/ _ \ \ / /  `--. \ '_ \ / _` |/ __| |/ /
  | | | (_| |\ V /| | (_) \ V /  /\__/ / | | | (_| | (__|   <
  \_|  \__,_| \_/ |_|\___/ \_/   \____/|_| |_|\__,_|\___|_|\_\
-´´
+´´´
 
 on a Quest using a Linux machine. written by Archaeo(#2386), 2020
 
