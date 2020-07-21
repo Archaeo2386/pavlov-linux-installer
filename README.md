@@ -12,6 +12,9 @@ Shell file to install beta versions of
  written by Archaeo(#2386), 2020
 
 # How to install:
+## Video tutorial
+https://streamable.com/dg9kln
+
 ## With CLI:
 1. Download and extract the build archive (You can find the link on Discord)
 2. Copy the .sh file from this Repo into that folder
