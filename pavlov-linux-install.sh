@@ -14,6 +14,9 @@
 ###############################################################################
 #
 # How to install:
+# Video tutorial:
+# https://streamable.com/dg9kln
+#
 # With CLI:
 # 1. Attach your Quest with a USB lead
 # 2. Switch it on
